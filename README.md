@@ -13,17 +13,6 @@ Welcome to my GitHub! I’m passionate about building intelligent systems combin
 
 ---
 
-## 🛠️ Featured Projects
-
-### **Lawlease – AI Chatbot with Image Analysis**  
-A legal assistant that processes both user text and uploaded images (e.g. contract scans, legal documents), fusing OCR / vision outputs with NLP to provide contextually accurate legal guidance.
-
-### **FaceRecog**  
-A face recognition system using OpenCV and MySQL that can register and detect faces in real time, storing metadata and enabling identity verification through camera feeds or images.
-
-*(You can add more project snapshots or links here)*
-
----
 
 ## 🧩 Tech Stack & Tools
 
