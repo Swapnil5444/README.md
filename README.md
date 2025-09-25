@@ -35,10 +35,17 @@ Welcome to my GitHub! I’m passionate about building intelligent systems combin
 
 ---
 
+## 🏆 Achievements  
+
+- 🎓 **Engineering Student** at Mumbai University.  
+- 💻 **Machine Learning Intern** at Technohack & Prodigy Infotech 
+- 🚀 Built **Full-Stack Projects** (MERN)   
+- 🤝 Class Representative of Final Year   
+
 ## 📬 Connect with Me
 
-- LinkedIn: *(your LinkedIn URL)*
+- LinkedIn:https://www.linkedin.com/in/swapnil-rathod-b77143238/
 - Email:swapnilrathod5444@gmail.com
-- Twitter / Mastodon / (other handles)  
+- Mobile no:-9892649590 
 
 Thanks for stopping by — feel free to explore my repositories and reach out if you’d like to collaborate!
