@@ -49,7 +49,7 @@ A face recognition system using OpenCV and MySQL that can register and detect fa
 ## 📬 Connect with Me
 
 - LinkedIn: *(your LinkedIn URL)*
-- Email: *(your email)*
+- Email:swapnilrathod5444@gmail.com
 - Twitter / Mastodon / (other handles)  
 
 Thanks for stopping by — feel free to explore my repositories and reach out if you’d like to collaborate!
