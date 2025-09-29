@@ -22,7 +22,7 @@ Welcome to my GitHub! I’m passionate about building intelligent systems combin
 | Machine Learning / AI | (add frameworks you use, e.g. TensorFlow, PyTorch, scikit-learn) |
 | Backend / DB | MySQL (using mysql.h, connectors), REST APIs |
 | Languages | C++, Python, (add others) |
-| Dev / Deployment | Git, Linux, Docker, (any cloud or CI/CD you use) |
+
 
 ---
 
