@@ -49,3 +49,5 @@ Welcome to my GitHub! I’m passionate about building intelligent systems combin
 - Mobile no:-9892649590 
 
 Thanks for stopping by — feel free to explore my repositories and reach out if you’d like to collaborate!
+![Swapnil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)
+
